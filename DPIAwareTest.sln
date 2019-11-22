@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPIAwareTest", "DPIAwareTest.csproj", "{8C64E419-6939-49AA-8334-3356ADB6E7EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C64E419-6939-49AA-8334-3356ADB6E7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C64E419-6939-49AA-8334-3356ADB6E7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C64E419-6939-49AA-8334-3356ADB6E7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C64E419-6939-49AA-8334-3356ADB6E7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D4FEBE7-E8C2-4DF5-8BC2-FE9F003DB4BE}
+	EndGlobalSection
+EndGlobal
