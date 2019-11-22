@@ -15,7 +15,6 @@ namespace DPIAwareTest
         public Form1()
         {
             InitializeComponent();
-            this.DpiChanged += WhenDpiChanged;
             label3.Text = this.DeviceDpi + " DPI";
         }
 

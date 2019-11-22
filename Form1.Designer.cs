@@ -72,6 +72,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.DpiChanged += new System.Windows.Forms.DpiChangedEventHandler(this.WhenDpiChanged);
             this.ResumeLayout(false);
             this.PerformLayout();
 
